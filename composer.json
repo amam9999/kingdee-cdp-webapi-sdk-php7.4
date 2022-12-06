@@ -1,0 +1,14 @@
+{
+    "name": "kingdee/kingdee-webapi-sdk-php",
+    "description": "金蝶云星空定制化开发调用webapi的工具sdk，针对php语言开发",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Kingdee\\KingdeeWebapiSdkPhp\\": "src/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {
+        "php":">=7.4"
+    }
+}
